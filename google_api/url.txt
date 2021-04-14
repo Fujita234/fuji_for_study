@@ -1,0 +1,11 @@
+
+[認証をするためのURL]
+このURLをブラウザで叩いて、認証を進める。
+https://accounts.google.com/o/oauth2/v2/auth?response_type=code&client_id=601839991339-6kfcr8qbgva8cm8k4qjog2r6qt1fc946.apps.googleusercontent.com&redirect_uri=https://fujiPracticeProject.com&scope=https://www.googleapis.com/auth/photoslibrary&access_type=offline
+
+
+[exia.hinata0622@gmail.comで認証]
+https://fujipracticeproject.com/?code=4/0AY0e-g6OOBE34DE9gjj17AAOLTKbc076EbCGNCHcTls9CIM6RkRE9I1PY-U5lf6PALHxsQ&scope=https://www.googleapis.com/auth/photoslibrary
+
+[s1260184@gmail.comで認証]
+https://fujipracticeproject.com/?code=4/0AY0e-g5B_uYAvytmZnn-Rhg9eQc3az4RFe1nYKeTsQwntR0af7kcGYUzuvEs4klXxSm50w&scope=https://www.googleapis.com/auth/photoslibrary

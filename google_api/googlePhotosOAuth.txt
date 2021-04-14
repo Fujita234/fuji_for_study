@@ -1,0 +1,5 @@
+[クライアントID]
+537450337415-fric6rah6ol7m3cbfqat90h78k4rccqp.apps.googleusercontent.com
+
+[クライアントシークレットID]
+vj8a-fpNY_L9_kolh1NNmKZa
